@@ -1,0 +1,47 @@
+body{
+	height: 100vh;
+	width: 100vw;
+}
+
+.row{
+	border: 1px solid black;
+	background-color: #ededed;
+}
+
+.col-5{
+	border: 1px solid black;
+	background-color: #ededed;
+}
+
+#placeholderpic{
+	width: 300px;
+}
+
+.col{
+	border: 1px solid black;
+	background-color: #ededed;
+}
+
+
+.col-8{
+	border: 1px solid black;
+	background-color: #ededed;
+}
+
+
+#contenido{
+	height: 100%;
+	width: 100%;
+}
+
+#top_row{
+	height: 33%;
+}
+
+#mid_row{
+	height: 33%;
+}
+
+#bottom_row{
+	height: 33%;
+}
